@@ -31,5 +31,11 @@
       <version>1.2.1</version>
       <scope>compile</scope>
     </dependency>
+    <dependency>
+      <groupId>MutiModule</groupId>
+      <artifactId>common-util</artifactId>
+      <version>unspecified</version>
+      <scope>compile</scope>
+    </dependency>
   </dependencies>
 </project>
